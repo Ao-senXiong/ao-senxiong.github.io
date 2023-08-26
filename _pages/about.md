@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in University of Waterloo supervised by Prof. [Werner Dietl](https://ece.uwaterloo.ca/~wdietl/). I am interested in static analysis and type systems.
+I am currently pursuing my Ph.D. in Electrical and Computer Engineering at the University of Waterloo, under the guidance of Prof. [Werner Dietl](https://ece.uwaterloo.ca/~wdietl/). My primary research interests lie in static analysis and type systems.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

@@ -3,7 +3,6 @@
     "name": "Aosen Xiong",
     "image": "",
     "email": "aosenxiong@gmail.com",
-    "phone": "(912) 123-4567",
     "summary": "Ph.D. researcher in static analysis and type sytem",
     "location": {
       "address": " 200 University Ave W",
@@ -12,13 +11,7 @@
       "countryCode": "CA",
       "region": "Ontario"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "volunteer": [],
   "education": [
@@ -31,12 +24,12 @@
       "endDate": "present",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Software and Systems Security, Language design and implementation, Foundation of Multi-agent system, Software Reliability Engineering, Foundations of Software Engineering, Algorithm Design and Analysis, Methods and Tools for Software Engineering"
       ]
     },
     {
       "institution": "Chongqing University",
-      "url": "https://www.uzh.ch/",
+      "url": "http://english.cqu.edu.cn/",
       "area": "Nuclear Engineering",
       "studyType": "Bachelor",
       "startDate": "2017-09",
@@ -49,12 +42,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [],
